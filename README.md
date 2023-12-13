@@ -1,4 +1,4 @@
-#Praktikum Pengantar Pemrograman
+# Praktikum Pengantar Pemrograman
 
-*Praktikum 1 : Pengenalan Variabel
+* Praktikum 1 : Pengenalan Variabel
 `praktikum-d1.py`
