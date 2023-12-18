@@ -8,9 +8,9 @@
 * Praktikum 2 : Operator
   `praktikum-d2.py`
 * Praktikum 3 : String
-  `praktikum-d3.py`
+  `praktikum-d3-1.py`
 * Praktikum 4 : List and Tuples
-  `praktikum-d4.py`
+  `praktikum-d4-2.py`
 * Praktikum 5 : Perulangan
   `praktikum-d5.py`
 * Praktikum 6 : While True
