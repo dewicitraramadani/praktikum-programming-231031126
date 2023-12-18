@@ -1,5 +1,5 @@
 # Praktikum Pengantar Pemrograman
-<p> Nama : Dewi Citra Ramadhani </p>
+<p> Nama : Dewi Citra Ramadani </p>
 <p> NIM : 231031126 </p>
 <p> Prodi : Sistem Informasi D </p>
   
